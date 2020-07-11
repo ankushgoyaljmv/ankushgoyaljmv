@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Ankush Goyal!
 
 <!--
 **ankushgoyaljmv/ankushgoyaljmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### About Me:
+I am a Web Application developer with interest in learning new technologies and frameworks. I regularly solve data structures & algorithms problems on LeetCode.
